@@ -28,21 +28,6 @@ GigapixL is a sleek, user-friendly platform for browsing and viewing images. It�
 
 ---
 
-## 📁 Project Structure
-GigapixL/
-├── backend/ # Backend (if applicable)
-├── public/ # Static assets
-├── src/ # React source files
-│ ├── components/ # Reusable components
-│ ├── assets/ # Images and static files
-│ ├── App.jsx
-│ └── main.jsx
-├── index.html
-├── package.json
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
-
 Make sure you have **Node.js (v16 or above)** installed.
 
 Check versions:
